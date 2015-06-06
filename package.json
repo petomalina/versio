@@ -1,0 +1,28 @@
+{
+  "name": "versio",
+  "version": "1.0.0",
+  "description": "Simple version matching utility",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gelidus/versio.git"
+  },
+  "keywords": [
+    "version",
+    "control",
+    "matching",
+    "versioning"
+  ],
+  "author": "Gelidus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gelidus/versio/issues"
+  },
+  "homepage": "https://github.com/Gelidus/versio"
+}
