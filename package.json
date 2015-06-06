@@ -1,6 +1,6 @@
 {
   "name": "versio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple version matching utility",
   "main": "index.js",
   "directories": {
