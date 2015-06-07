@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/Gelidus/versio/issues"
   },
-  "homepage": "https://github.com/Gelidus/versio"
+  "homepage": "https://github.com/Gelidus/versio",
+  "devDependencies": {
+    "coffee-script": "^1.9.3",
+    "mocha": "^2.2.5",
+    "should": "^6.0.3",
+    "should-type": "^0.1.1"
+  }
 }
